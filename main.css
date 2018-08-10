@@ -1,0 +1,8 @@
+body{
+	background-image: url("back.jpg");
+	 background-repeat: no-repeat;
+	 background-size: cover;
+}
+from .button{
+	background-color: : #1a0330;
+}
